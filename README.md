@@ -1,1 +1,2 @@
 # Predict-twitter-airline-sentiment
+in this notebook you will use Twitter US Airline data that was scraped from February of 2015 and make a sentiment analysis job about the problems of each major U.S. airline then your will make a prediction of the sentiment of the tweets in this set whether they are positive, neutral, or negative for six US airlines using machine learning model LogisticRegression and deep learning's nerual networks.
